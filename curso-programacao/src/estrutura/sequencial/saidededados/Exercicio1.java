@@ -1,3 +1,5 @@
+package estrutura.sequencial.saidededados;
+
 import java.util.Locale;
 
 public class Exercicio1 {
