@@ -2,7 +2,7 @@ package estrutura.repetitiva;
 
 import java.util.Scanner;
 
-public class Enquanto {
+public class ExemploEnquanto {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
