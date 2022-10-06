@@ -1,4 +1,6 @@
-package orientacaoobjeto.entities;
+package orientacaoobjeto.entities.application;
+
+import orientacaoobjeto.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
