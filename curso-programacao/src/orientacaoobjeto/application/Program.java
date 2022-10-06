@@ -1,4 +1,4 @@
-package orientacaoobjeto.entities.application;
+package orientacaoobjeto.application;
 
 import orientacaoobjeto.entities.Triangle;
 
